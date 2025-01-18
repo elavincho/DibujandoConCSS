@@ -1,0 +1,25 @@
+* {
+box-sizing: border-box;
+margin: 0;
+background: #000;
+}
+
+.radius {
+    margin: 80px;
+    width: 250px;
+    height: 250px;
+    background-color: #1468ac;
+
+
+    border-radius: 18% 82% 34% 66% / 8% 30% 70% 92%;
+}
+
+.radius2 {
+    margin: 80px;
+    width: 250px;
+    height: 250px;
+    background-color: #1468ac;
+
+    border-radius: 10px 30px 50px 70px;
+
+}
